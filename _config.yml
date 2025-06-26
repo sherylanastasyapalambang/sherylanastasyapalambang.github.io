@@ -16,7 +16,7 @@ timezone:
 
 title: sheryl's page # the main title
 
-tagline: My Personal Blog # it will display as the subtitle
+tagline: Welcome To My Personal Blog! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, sheryl, github
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/871c0340bab841f53e654f622301e299~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=33b70f81&x-expires=1744372800&x-signature=fQT7d612KncPCDdpeUBruJQ5430%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1
+avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
