@@ -7,7 +7,7 @@ image: /assets/img/yokailist2.jpg
 excerpt: "An Android app for anime fans to explore seasonal charts, top anime, and manage personal watchlists—built with Java and Android Studio."
 ---
 
-![YokaiList](../../assets/img/yokailist.jpg)
+![YokaiList](/assets/img/yokailist.jpg)
 
 **YokaiList** is a mobile app built with Java and Android Studio, made for anime fans to explore seasonal anime, view top-rated titles, and manage their personal watchlist.
 
