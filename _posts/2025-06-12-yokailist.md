@@ -36,7 +36,7 @@ excerpt: "An Android app for anime fans to explore seasonal charts, top anime, a
 - **Java & Android SDK**
 - **SQLite** & **Room**
 - [**Jikan API**](https://jikan.moe/)
-- **Material Components for Android**
+<!-- - **Material Components for Android** -->
 
 ---
 
