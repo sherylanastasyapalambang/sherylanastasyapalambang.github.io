@@ -1,6 +1,6 @@
 ---
-title: "YokaiTech"
-date: 2025-03-01 00:40:00 +0800
+title: "YokaiTech: "
+date: 2025-03-08 00:40:00 +0800
 categories: [Project]
 tags: [Web, Laravel]
 ---
@@ -48,4 +48,4 @@ Built with:
 
 ---
 
-🔗 **GitHub Repository**: [https://github.com/sherylanastasyapalambang/YokaiTech](https://github.com/sherylanastasyapalambang/YokaiTech)
+🔗 **GitHub Repository**: [link](https://github.com/sherylanastasyapalambang/YokaiTech)
