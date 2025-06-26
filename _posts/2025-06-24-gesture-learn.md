@@ -40,4 +40,5 @@ excerpt: "An interactive mobile app for learning Indonesian Sign Language (BISIN
 
 👉 [GitHub Repo](https://github.com/xebec51/GestureLearn)
 
-<img src="/assets/img/gesturelearn2.jpg" alt="GestureLearn" style="width:60%; display:block; margin:auto;" />
+<img src="/assets/img/gesturelearn2.jpg" alt="GestureLearn"
+     style="width: 100%; max-width: 300px; height: auto; display: block; margin: 1em auto; border-radius: 8px;">
