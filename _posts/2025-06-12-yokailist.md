@@ -1,6 +1,6 @@
 ---
 title: "YokaiList: Anime Watchlist App"
-date: 2025-06-20 00:40:00 +0800
+date: 2025-06-12 00:40:00 +0800
 categories: [Project]
 tags: [Android, java, anime]
 image: /assets/img/yokailist3.png
@@ -38,8 +38,9 @@ excerpt: "An Android app for anime fans to explore seasonal charts, top anime, a
 - [**Jikan API**](https://jikan.moe/)
 - **Material Components for Android**
 
-<img src="/assets/img/yokailist.jpg" alt="YokaiList"
-     style="width: 100%; max-width: 300px; height: auto; display: block; margin: 1em auto; border-radius: 8px;">
-
+---
 
 👉 [GitHub Repo](https://github.com/sherylanastasyapalambang/YokaiList-Mobile-2025)
+
+<img src="/assets/img/yokailist.jpg" alt="YokaiList"
+     style="width: 100%; max-width: 300px; height: auto; display: block; margin: 1em auto; border-radius: 8px;">
