@@ -1,22 +1,11 @@
 ---
-title: "YokaiList: Anime Watchlist App"
-date: 2025-06-20 00:40:00 +0800
-categories: [Project]
-tags: [Android, java, anime]
-image: /assets/img/yokailist3.png
-excerpt: "An Android app for anime fans to explore seasonal charts, top anime, and manage personal watchlists—built with Java and Android Studio."
----
-
----
 title: "GestureLearn: Sign Language Learning App"
 date: 2025-06-26 00:40:00 +0800
 categories: [Project]
 tags: [Android, java, sign language]
-image: /assets/img/yokailist3.png
+image: /assets/img/gesturelearn.png
 excerpt: "An interactive mobile app for learning Indonesian Sign Language (BISINDO) and SIBI—featuring GIF-based visuals, dynamic quizzes, and progress tracking."
 ---
-
-![GestureLearn Preview](/assets/img/gesturelearn-main.jpg)
 
 **GestureLearn** is an interactive Android app designed to support the learning of Indonesian Sign Language (BISINDO) and Indonesian Signing System (SIBI). It combines intuitive visual content, gamified quizzes, and user progress tracking to enhance both engagement and retention.
 
