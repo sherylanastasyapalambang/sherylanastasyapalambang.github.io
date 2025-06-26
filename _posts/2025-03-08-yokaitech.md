@@ -1,5 +1,5 @@
 ---
-title: "YokaiTech: "
+title: "YokaiTech: an e-commerce platform for tech products"
 date: 2025-03-08 00:40:00 +0800
 categories: [Project]
 tags: [Web, Laravel]
@@ -42,10 +42,10 @@ Public users can explore product listings but must log in to interact with the s
 
 ---
 
-Built with:
+## 🛠️ Built With
 - **Laravel** (Backend Framework)
 - **Tailwind CSS + Flowbite** (Frontend Styling)
 
 ---
 
-🔗 **GitHub Repository**: [link](https://github.com/sherylanastasyapalambang/YokaiTech)
+👉 [GitHub Repo](https://github.com/sherylanastasyapalambang/YokaiList-Mobile-2025)
